@@ -1,8 +1,17 @@
 # Why-Code
 This Blog explain reasons as to why one should Code
 From :https://www.codingal.com/
+# Code 01
+In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
 
-# Code 1
+In our real life, to communicate with each other we use different languages such as English, Hindi and Marathi. Similarly, to communicate with computers we use a Binary language/ Binary Code( 0s and 1s) because computers understand 0’s as ‘off’ and 1’s as ‘on’. We can also say that computers use electrical signals, 0s low voltage and 1s high voltage.
+
+Code is basically a set of instructions written in a programming language that computers can understand and execute accordingly. It serves as a communication bridge between humans and machines, allowing us to directly access the action of a computer to perform a particular or specific task and solve problems.
+
+
+Code can be written in various programming languages such as C, Java, Python and JavaScript which follows a particular syntax, structure and methods that ensures clarity and functionality. By writing a code, developers can manipulate the data, control flow, control hardware and build software that ranges from simple to complex systems, ultimately transforming abstract ideas into digital solutions.
+
+# Code 02
 In today’s rapidly evolving digital landscape, coding has transcended its niche as a skill for tech enthusiasts and professionals. 
 It has become an invaluable tool applicable to various aspects of our daily lives. Whether you’re a student, a professional, or someone simply navigating the complexities of the modern world, understanding how to code can empower you in ways you might not have imagined. In this blog, we will understand the top reasons why coding is not just a skill but an essential aspect of our everyday existence.
 
