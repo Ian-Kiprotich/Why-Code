@@ -45,3 +45,21 @@ Coding is not a solitary activity; it’s a collaborative endeavor. Open-source 
 
 10. Future-Proofing Your Skills
 In a world where technology is evolving at an unprecedented pace, coding for kids is a future-proof skill. As automation and artificial intelligence become integral parts of various industries, the ability to understand and work with code ensures that you remain relevant and adaptable in an ever-changing job market.
+
+# Code 03
+   *Why program?*
+Computers are all around us in the 21st century, and promise to become even more ubiquitous as time goes on. They are having an ever increasing impact on our lives, and we are becoming less and less able to even conceive of living without them.
+
+As Dr. Charles Severance says in the beginning of his Python for Everybody course, “It is important that we learn to tell these computers what to do rather than just let them increasingly control our lives.”
+
+Information in the 21st century is now overwhelmingly distributed through the Internet and the World Wide Web. We do research, entertain ourselves, make purchases, interact with our government, and study and learn online.
+
+If we aspire to have democratic participation in the world of today, at least a basic understanding of computer programming, what it is and what it can do, and the workings of the Web are essential for all informed citizens.
+
+That, in a nut shell, is what this book is about. It has two goals: to teach you to think like a computer programmer, so that you can better understand what computers are and what they can and can not do, and to help you apply this understanding in creating web applications.
+
+Learning to think like a computer programmer is a good end in itself, since the processes used in computer programming combine some of the most important features of mathematics, engineering, and natural science. Like mathematicians, computer programmers use formal languages to denote ideas (specifically computations). Like engineers, they design things, assembling components into systems and evaluating tradeoffs among alternatives. Like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions.
+
+The single most important skill for a computer programmer is problem solving. Problem solving means the ability to formulate problems, think creatively about solutions, and express a solution clearly and accurately. As it turns out, the process of learning to program is an excellent opportunity to practice problem-solving skills.
+
+So on one level, you will be learning to program, a useful skill in itself. On another level, you will use programming as a means to an end - creating web applications, which can open the door to you to play an active part in building the tools of the information age.
