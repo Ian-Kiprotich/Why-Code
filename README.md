@@ -48,6 +48,7 @@ In a world where technology is evolving at an unprecedented pace, coding for kid
 
 # Code 03
    *Why program?*
+   
 Computers are all around us in the 21st century, and promise to become even more ubiquitous as time goes on. They are having an ever increasing impact on our lives, and we are becoming less and less able to even conceive of living without them.
 
 As Dr. Charles Severance says in the beginning of his Python for Everybody course, “It is important that we learn to tell these computers what to do rather than just let them increasingly control our lives.”
