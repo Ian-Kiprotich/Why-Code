@@ -138,3 +138,38 @@ Recognizing the importance of programming, educational institutions are incorpor
 Integrating coding into school curricula equips students with essential skills for the future. It encourages critical thinking, logical reasoning, and the ability to break down complex problems into smaller, manageable tasks.
 
 Students develop resilience, perseverance, and creativity by engaging in programming exercises and projects. Programming education goes beyond coding; it fosters computational thinking, a valuable mindset applicable to various domains.
+
+# Code 06
+
+First, a disclaimer and that disclaimer is that there are two types of people: people that classify people into types of people and those that don’t. For my first few years as a programmer, I didn’t classify other programmers. I thought they were all the same.
+
+But I sort of fell into the job, professionally at least, after I had already written code and made money doing it for five years. I didn’t have a degree and taught myself to program. My first job didn’t pay well and everyone who worked there with me was in the same boat. We all learned our skills on our own and had no formal training.
+
+So for those first few years, every programmer I knew was kind of like me. Every one of us got into programming because we wanted to figure out how it worked to create our own cool things. We would learn about some new way of doing something and tell each other about it.
+
+Once I left that job and started working in the corporate world, I began to classify programmers into three different types: The Professional, The Computer Scientist, and The Creator. I also realized that I was never 100% one of the types. I am always some percentage of each. But I always went back to my core type.
+
+The Creator
+At first, this is what I thought all programmer’s were. Most of the people on my first team got into coding because they wanted to create video games. I got into it because I wanted to be an inventor and thought that inventing would be easier in a virtual environment.
+
+I tend to not be opinionated about the language or framework I use, unless it makes it harder to build a finished product or I am just more familiar with one more than others. I don’t really care what style rules and linting rules need to be applied. Tabs or spaces? That’s an argument for someone else. Give me a standard and I will use it.
+
+To a creator, the results matter the most. I have learned PHP, JavaScript, Python, Golang, C++, and more because that was what was required to finish the project. The first lines of code I wrote in my life wasn’t a toy program or for a coding class. It was an MVP for my first product. I wanted to build something and programming languages were the tools that would help me get that done.
+
+The Professional
+This type of programmer may be interested in technology on the surface, but doesn’t really care about writing the code. Writing code is just a step on his journey up the corporate ladder. Even programmers with mediocre skills can get paid pretty well because there always seems to be more programmer jobs than programmers to fill them.
+
+When the market crashed in 2008, a lot of people in the financial industry took coding boot camps to get high paying jobs in the tech industry for this reason. Professionals usually become lead developers and then managers or directors and hope to be CTO or CIO eventually.
+
+I have been bitten by the professional bug at times, usually when my side hustles take a hit, but I actually prefer doing the work to having meetings about doing the work. It is also hard for me to be that invested in a business that I don’t have a real stake in. I could fake it and I know a bunch of professionals do, but I would rather work on creating a great product than help create a business that I would only ever get a paycheck from anyway.
+
+The Computer Scientist
+Every programmer should be concerned that they are writing good code, but for the computer scientist, it is there ultimate goal. These are the programmers that end up creating the languages and frameworks that make our work easier. They can probably get through the Leet type coding tests with flying colors that I have never been able to pass.
+
+I have tried to become a better computer scientist. I have gone through the books on algorithms and data structures and thought I had a grasp on some of them, but then, since I hardly ever used any of that knowledge in my day-to-day work, it sort of evaporated over time. A similar thing has happened with my knowledge of AWS. I have gone to classes, I have used it on the job, but the times when I need that knowledge are so few an far between that I kind of have to learn it all over each time.
+
+A computer scientist might become an architect eventually, the direction I thought I was going. But again with the meetings.
+
+I guess I started think of this when I turned down promotions recently. Where was I going? What was my goal? If a turn down promotions, does that mean I created my own dead-end job? Does the goal of every job have to be moving up or is just getting better at what you do enough?
+
+Or maybe I just need a different mindset. A few years ago, when my own business went down the tubes, I decided to focus on my career as a programmer. I failed once, so maybe I wasn’t cut out for that. Or maybe I just always was and need to fail more to find success there.
