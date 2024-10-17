@@ -180,3 +180,33 @@ A computer scientist might become an architect eventually, the direction I thoug
 I guess I started think of this when I turned down promotions recently. Where was I going? What was my goal? If a turn down promotions, does that mean I created my own dead-end job? Does the goal of every job have to be moving up or is just getting better at what you do enough?
 
 Or maybe I just need a different mindset. A few years ago, when my own business went down the tubes, I decided to focus on my career as a programmer. I failed once, so maybe I wasn’t cut out for that. Or maybe I just always was and need to fail more to find success there.
+
+
+# Code 06
+
+**How do I find my why?**
+
+I think you first need to understand what makes you happy. Above I listed a few reasons one why people might enjoy coding, but it is deeper than that. This will be part of your personality and will carry throughout other aspects of your life, not just coding.
+
+For example, I find I am happiest when I am actively engaged in a project that requires thinking and problem solving. I can find this type of challenge in many areas. Some might be cooking, woodworking, model building, or even playing video games. Coding is another level of complexity for the thinking and problem solving, so I can enjoy it that much more.
+
+Once you know what makes you happy, you can begin to explore why you write code. For most, It is going to drive back to what makes you happy and fulfills your personality’s needs. Finding this answer isn’t going to be easy.
+
+Search yourself
+To answer the question “how do I find my why?”, you need to search yourself. Put some of that same deep thought that you put into your coding skills into an exercise of self-reflection. Here’s some steps you can take to get started!
+
+> Find a quiet place and time to allow some adequate reflection. Remove any distractions (turn off your phone, not just silence it!) and give yourself a solid hour of uninterrupted time for pure thought.
+
+>> Have a notebook and pencil ready. This needs to be a physical notebook to prevent any possible distraction, but something about physically writing something can help ideas flow more clearly. Eventually with practice of removing distractions, you can upgrade to typing on a physical keyboard. But to start, just have a notebook and pencil.
+
+>>> Reserve the first page of your thought session to be blank (we’ll write there later). Start to ask yourself questions that require deep thought. “What makes me happy?” is not sufficient here. You need to think about specific things you do and have done and analyze how they made you feel. Just like you analyze a problem for coding and how to solve it, we’re doing the same for the self-reflection.
+
+>>>> As you think, write down everything that comes to mind on that second page after the blank page. Write about experiences you’ve had, the good and bad in them, and the feelings around them. As you write, let the ideas flow. If you get on a tangent thought thread, write about it!
+
+>>>>> Once you think you understand what makes you happy, flip back to that first blank page and clearly write a paragraph about it. Try to summarize in just one or two sentences that specific thing that makes you happy.
+
+>>>>>> Also on the first page, think about the bad times. What made those things bad and why were you unhappy? Summarize this into a paragraph.
+
+>>>>>>> Let’s do a quick example thought thread. Maybe I can start thinking about jobs I’ve had. Eventually I might land on a specific one. I’ll think about the team I worked on, the hiring process, the projects I worked on. I might start to think about other teams I interacted with, how I was rewarded (or chastised potentially), and actions I took. I might also think about other factors in my life unrelated to the job. Maybe there were family struggles at the same time, or maybe life at home was smooth sailing. I might think about things that make me happy in each space and things that make me frustrated.
+
+I haven’t carved out a tip of the iceberg and I could keep going with a thought train here. That previous paragraph I was thinking about a specific job and some of the ups and downs. I’m sure I could have written pages and pages of the experience and feelings. As you dive more into deep thought like this, you may find you’ll do the same and that reserved hour is not 
