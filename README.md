@@ -182,7 +182,7 @@ I guess I started think of this when I turned down promotions recently. Where wa
 Or maybe I just need a different mindset. A few years ago, when my own business went down the tubes, I decided to focus on my career as a programmer. I failed once, so maybe I wasn’t cut out for that. Or maybe I just always was and need to fail more to find success there.
 
 
-# Code 06
+# Code 07
 
 **How do I find my why?**
 
@@ -211,7 +211,7 @@ To answer the question “how do I find my why?”, you need to search yourself.
 
 I haven’t carved out a tip of the iceberg and I could keep going with a thought train here. That previous paragraph I was thinking about a specific job and some of the ups and downs. I’m sure I could have written pages and pages of the experience and feelings. As you dive more into deep thought like this, you may find you’ll do the same and that reserved hour is not 
 
-# Code 07
+# Code 08
 
 **Some reasons why you might code**
 
