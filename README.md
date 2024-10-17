@@ -210,3 +210,38 @@ To answer the question “how do I find my why?”, you need to search yourself.
 >>>>>>> Let’s do a quick example thought thread. Maybe I can start thinking about jobs I’ve had. Eventually I might land on a specific one. I’ll think about the team I worked on, the hiring process, the projects I worked on. I might start to think about other teams I interacted with, how I was rewarded (or chastised potentially), and actions I took. I might also think about other factors in my life unrelated to the job. Maybe there were family struggles at the same time, or maybe life at home was smooth sailing. I might think about things that make me happy in each space and things that make me frustrated.
 
 I haven’t carved out a tip of the iceberg and I could keep going with a thought train here. That previous paragraph I was thinking about a specific job and some of the ups and downs. I’m sure I could have written pages and pages of the experience and feelings. As you dive more into deep thought like this, you may find you’ll do the same and that reserved hour is not 
+
+# Code 07
+
+**Some reasons why you might code**
+
+
+Coding is fun
+The act of coding can be fun in itself because there is just so much code you can write that is completely unique. It is the same type of idea why a person might write a novel or go for a hike. You enjoy the activity for the activity itself and other benefits just seem to flow in as a result.
+
+It’s a paycheck
+Maybe you are motivated to code because it pays well and you want to live a certain lifestyle or have certain things. This motivation may be more of a means to an end, rather than the coding itself.
+
+The daily challenges
+Coding can definitely be a series of daily challenges, whether that is solving a specific bug, designing a specific element, or maybe finding some way to optimize something. Every day seemingly can bring something new, keeping every day fresh.
+
+The logical thinking
+Coding requires a way of thinking that is more logical and step by step. After all, it is giving instructions to a computer, which only operates based on logic and step driven instructions. Some people might fit right into this line of thinking with their personality.
+
+Constantly changing landscape
+Similar to the daily challenges, but at a higher scope, coding is always changing. You have new techniques, new languages, new frameworks, and more coming out constantly. Some stick around, some don’t, but each can be learned from.
+
+The teamwork, or the solo
+Some might code for the team and the sense of accomplishment that comes with the teamwork to completely a project. They might hunger for the social interaction of a close-knit group with the same purpose. On the flipside, you might code because you don’t necessarily have to work with a team. Maybe you like the fact that you write your own code and learn on your own.
+
+The design and organization
+Coding in different applications across every industry means different design challenges, not only for the end-user, but also organizing your code and architecture. This is a challenge in itself that can drive people to code.
+
+The responsibility
+When working on a project for a client, company, or some end-user, there is going to be a level of responsibility that comes with coding. You are responsible for that code doing what it is supposed to do, which can fill a need that some people might have. This responsibility could also come from some side-effect of the coding, like the responsibility of supporting a family.
+
+The end result
+Maybe your purpose is driven by the need to complete a project. Or maybe it is the need for the compensation at the end. For this, coding might not always be enjoyable in the moment, but for the satisfaction of the outcome.
+
+The praise
+Some might have the personality where they need to have praise for the work they perform. This could be compensation in a job, a number of “likes” for your github project, or some other form of praise.
