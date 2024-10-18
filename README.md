@@ -6,6 +6,7 @@ From :https://www.codingal.com/
 
 
 # Code 01
+
 In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
 
 In our real life, to communicate with each other we use different languages such as English, Hindi and Marathi. Similarly, to communicate with computers we use a Binary language/ Binary Code( 0s and 1s) because computers understand 0’s as ‘off’ and 1’s as ‘on’. We can also say that computers use electrical signals, 0s low voltage and 1s high voltage.
