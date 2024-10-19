@@ -251,3 +251,7 @@ Maybe your purpose is driven by the need to complete a project. Or maybe it is t
 The praise
 Some might have the personality where they need to have praise for the work they perform. This could be compensation in a job, a number of “likes” for your github project, or some other form of praise.
 # CODE 9
+
+To include 
+
+# CODE 10
