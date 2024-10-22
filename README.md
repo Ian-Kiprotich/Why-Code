@@ -4,7 +4,6 @@ This Blog explain reasons as to why one should Code
 
 From :https://www.codingal.com/
 
-
 # Code 01
 
 In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
