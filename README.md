@@ -4,7 +4,7 @@ This Blog explain reasons as to why one should Code
 
 From :https://www.codingal.com/
 
-# Code 01
+# Code 01.
 
 In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
 
@@ -19,7 +19,7 @@ Code can be written in various programming languages such as C, Java, Python and
 In today’s rapidly evolving digital landscape, coding has transcended its niche as a skill for tech enthusiasts and professionals. 
 It has become an invaluable tool applicable to various aspects of our daily lives. Whether you’re a student, a professional, or someone simply navigating the complexities of the modern world, understanding how to code can empower you in ways you might not have imagined. In this blog, we will understand the top reasons why coding is not just a skill but an essential aspect of our everyday existence.
 
-# Reasons 1-10⏬
+# Reasons 1-10⏬.
 1. Problem-Solving Superpower
 Coding equips individuals with a problem-solving mindset. The ability to break down complex problems into smaller, more manageable parts and develop systematic solutions is a skill that transcends the realm of programming. Whether you’re troubleshooting a technical issue or addressing challenges in your personal or professional life, coding instills a structured approach to problem-solving.
 
@@ -62,7 +62,7 @@ Computer Programming allows us to create new internet-based applications and ser
 The benefits of computer programming are not limited to the business world. They also have a significant impact on education, healthcare, entertainment, and other areas of life as well. Computer programming plays an important role in our daily lives. Without it, our lives would be completely different. Besides helping develop new technologies, it also makes a lot of everyday things easier.
 
 
-# Code 04
+# Code 04.
 >>>>What are the benefits of computer programming?
 
 Programming is a fascinating and versatile field you can use for so many different things. Here are just a few of the benefits:
@@ -93,7 +93,7 @@ The single most important skill for a computer programmer is problem solving. Pr
 So on one level, you will be learning to program, a useful skill in itself. On another level, you will use programming as a means to an end - creating web applications, which can open the door to you to play an active part in building the tools of the information age.
 
 
-# Code 05
+# Code 05.
 
 >>>> Why Programming is Important?
 
