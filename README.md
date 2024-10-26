@@ -15,7 +15,7 @@ Code is basically a set of instructions written in a programming language that c
 
 Code can be written in various programming languages such as C, Java, Python and JavaScript which follows a particular syntax, structure and methods that ensures clarity and functionality. By writing a code, developers can manipulate the data, control flow, control hardware and build software that ranges from simple to complex systems, ultimately transforming abstract ideas into digital solutions.
 
-# Code 02
+# Code 02 
 In today’s rapidly evolving digital landscape, coding has transcended its niche as a skill for tech enthusiasts and professionals. 
 It has become an invaluable tool applicable to various aspects of our daily lives. Whether you’re a student, a professional, or someone simply navigating the complexities of the modern world, understanding how to code can empower you in ways you might not have imagined. In this blog, we will understand the top reasons why coding is not just a skill but an essential aspect of our everyday existence.
 
