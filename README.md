@@ -95,7 +95,7 @@ So on one level, you will be learning to program, a useful skill in itself. On a
 
 # Code 05.
 
->>>> Why Programming is Important?
+>>>**Why Programming is Important?**
 
 
 >>>> In today’s digital age, it’s crucial to communicate with computers as they play a vital role in our daily lives. As more services and products are digitized, programming skills will become increasingly important, and the demand for jobs requiring coding expertise will skyrocket.
