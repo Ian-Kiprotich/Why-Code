@@ -1,6 +1,12 @@
 # Why-Code.
-This Blog explain reasons as to why Code < *Why one should learn and start to code* >
+This Blog explain reasons as to why Code 
+
+< *Why one should learn and start to code* >
+
+
 👨‍💻👨🏾‍💻📚💯
+
+
 From :https://www.codingal.com/
 # Code 01.
 
