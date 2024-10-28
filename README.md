@@ -56,6 +56,8 @@ Coding is not a solitary activity; it’s a collaborative endeavor. Open-source 
 
 10. Future-Proofing Your Skills
 In a world where technology is evolving at an unprecedented pace, coding for kids is a future-proof skill. As automation and artificial intelligence become integral parts of various industries, the ability to understand and work with code ensures that you remain relevant and adaptable in an ever-changing job market.
+
+
 # Code 03
 >>>>> *Why is Computer Programming Important?*
 Computer programming is one of the most important aspects of modern life. It allows us to interact with computers in ways that were not possible before. It has enabled us to conduct research, design new products, and services, manage our finances, communicate with others around the World, and much more.
