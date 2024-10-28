@@ -61,7 +61,9 @@ In a world where technology is evolving at an unprecedented pace, coding for kid
 
 
 # Code 03
->>>>> *Why is Computer Programming Important?*
+
+
+>>> *Why is Computer Programming Important?*
 Computer programming is one of the most important aspects of modern life. It allows us to interact with computers in ways that were not possible before. It has enabled us to conduct research, design new products, and services, manage our finances, communicate with others around the World, and much more.
 
 Computers and the internet have completely changed the way we live our lives and interact with the world around us. It allows us to connect with people on the other side of the globe in an instant. Programming has changed the way we shop, travel, learn, and work. They are an essential part of our everyday lives. Without computers and the internet, our lives would be very different. There would be no Facebook or YouTube. There would be no online banking or e-commerce. And it would not be possible to shop online for thousands of different products and have them delivered to your home with a single click of the mouse.
