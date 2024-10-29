@@ -269,3 +269,35 @@ To include
 # CODE 10/ 11/ 12/ 13
 
 # CODE 14
+
+
+***The 9 WHYs***
+Contribute
+Trust
+Make Sense
+Better Way
+Right Way
+Challenge
+Mastery
+Clarify
+Simplify
+
+Okay, so the first one is Contribute – to contribute to a greater cause, add value, have an impact in the lives of others.
+
+The second one is Trust – to create relationships based upon trust, to be the trusted source.
+
+The third one is Make Sense – to make sense of the complex and challenging; they’re great problem solvers.
+
+The fourth one is my WHY, which is to find a better way and share it.
+
+The fifth one is Right Way – to do things the right way in order to get predictable results.
+
+The sixth WHY is Challenge – to challenge the status quo and think differently.
+
+The seventh WHY is Mastery – to seek mastery and understanding.
+
+The eighth WHY is Clarify – to make things clear, crystal clear, and understandable.
+
+And the last one is Simplify – to decrease complexity and make easier to do, easier to understand.
+
+So those are the nine WHYs in a nutshell.
