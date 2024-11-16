@@ -6,7 +6,7 @@ This Blog explain reasons as to why Code.
 < *Why one should learn and start to code* >
 
 
-👨‍💻👨🏾‍💻📚💯
+👨‍💻👨🏾‍💻📚💯.
 
 
 
